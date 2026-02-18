@@ -1251,11 +1251,10 @@
     source-map-support "^0.5.16"
 
 "@babel/runtime-corejs3@^7.8.3":
-  version "7.10.4"
-  resolved "https://registry.npmjs.org/@babel/runtime-corejs3/-/runtime-corejs3-7.10.4.tgz"
+  version "7.29.0"
+  resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.29.0.tgz#56cd28ec515364482afeb880b476936a702461b9"
   dependencies:
-    core-js-pure "^3.0.0"
-    regenerator-runtime "^0.13.4"
+    core-js-pure "^3.48.0"
 
 "@babel/runtime@^7.0.0", "@babel/runtime@^7.10.4", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.4":
   version "7.10.4"
@@ -2741,9 +2740,9 @@ convert-source-map@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-2.0.0.tgz#4b560f649fc4e918dd0ab75cf4961e8bc882d82a"
 
-core-js-pure@^3.0.0:
-  version "3.6.5"
-  resolved "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.6.5.tgz"
+core-js-pure@^3.48.0:
+  version "3.48.0"
+  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.48.0.tgz#7d5a3fe1ec3631b9aa76a81c843ac2ce918e5023"
 
 core-util-is@~1.0.0:
   version "1.0.2"
